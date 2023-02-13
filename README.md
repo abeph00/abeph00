@@ -12,7 +12,8 @@
 ----
 [<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adriana-bertrand-puche-a22639226/) 
 [<img align="center" src="https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white" />](https://profile.intra.42.fr/users/abertran)
-[<img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />]()
+[<img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />]
+(abertran@student.42madrid.com)
 [<img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />]()
 
 ----
