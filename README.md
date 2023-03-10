@@ -1,4 +1,4 @@
-### Hello, World!👋
+## Hello, World!👋
 
 🌱 I’m Adriana currently learning at 42 madrid. Also getting into web3 in alchemy university.
 You can find me in 42 network by abertran.
