@@ -1,6 +1,7 @@
 <h1> Hi there👋, I'm Adriana</h1>
 
 🌱 I’m currently learning at 42 madrid. Also getting into web3 in alchemy university.
+You can find me in 42 network by abertran.
 
 ❤️ I love cooking, learning and travelling.
 <br><br>
