@@ -7,14 +7,13 @@ You can find me in 42 network by abertran.
 <br><br>
 
 ### My 42 projects
-<div>
-<a href="https://github.com/abeph00/libft">![Retro and Vintage Road Bike Community Badge Logo](https://user-images.githubusercontent.com/114256637/224322862-88540662-109b-4762-88d5-b03b2a4c0ce1.png) </a>
-</div>
 
+
+![Retro and Vintage Road Bike Community Badge Logo](https://user-images.githubusercontent.com/114256637/224337527-baafbc18-6bcd-49f9-a3c6-4f8558373c80.png)
 
 <p align="left">
   <img src="https://github-readme-stats-eight-virid.vercel.app/api?username=abeph00&count_private=true&theme=calm&show_icons=true" width="48.5%"/>
-  <img src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=abeph00&layout=compact&count_private=false&theme=calm&show_icons=true" width="48%"/>
+  <img src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=abeph00&layout=compact&count_private=false&theme=calm&show_icons=true" width="40.55%"/>
  </p>
 
 ----
