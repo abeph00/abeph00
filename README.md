@@ -8,8 +8,13 @@ You can find me in 42 network by abertran.
 
 ### My 42 projects
 
+![LIBFT](https://user-images.githubusercontent.com/114256637/224361246-63a40c18-e5af-420d-ae0c-2aae92d9cf9d.png)
+![PRINTF (1)](https://user-images.githubusercontent.com/114256637/224360486-4d1d1204-d742-47f5-96f6-cac2fe01f556.png)
+![BORN2BEROOT](https://user-images.githubusercontent.com/114256637/224359353-bb6289ec-675e-44ee-bc54-cdda9233c2da.png)
+![GNL](https://user-images.githubusercontent.com/114256637/224359391-741e2e4c-0976-4da2-aace-8e3dbf0f46eb.png)
+![PUSH SWAP](https://user-images.githubusercontent.com/114256637/224359793-c8012566-578c-4a03-af3a-f5451c48562d.png)
 
-![Retro and Vintage Road Bike Community Badge Logo](https://user-images.githubusercontent.com/114256637/224337527-baafbc18-6bcd-49f9-a3c6-4f8558373c80.png)
+-----
 
 <p align="left">
   <img src="https://github-readme-stats-eight-virid.vercel.app/api?username=abeph00&count_private=true&theme=calm&show_icons=true" width="48.5%"/>
