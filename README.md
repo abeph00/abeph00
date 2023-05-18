@@ -1,4 +1,4 @@
-## Hello, World!👋
+# Hello, World!👋
 
 🌱 I’m Adriana currently learning at 42 madrid. Also getting into web3 in alchemy university.
 You can find me in 42 network by abertran.
@@ -6,7 +6,7 @@ You can find me in 42 network by abertran.
 ❤️ I love cooking, learning and travelling.
 <br><br>
 
-### 42 projects
+## 42 projects
 <br>
 <div align="center">
 
@@ -18,9 +18,20 @@ You can find me in 42 network by abertran.
   <a href="https://github.com/abeph00/Push_Swap">![pushswap2](https://user-images.githubusercontent.com/114256637/231525021-a3d5516e-cc07-4e35-aec3-d90ab3f1af1a.png) </a>
   <a href="https://github.com/abeph00/so_long">![so long (1)](https://user-images.githubusercontent.com/114256637/231525138-bdab6055-c453-4698-9de2-4b28493ef56c.png) </a>
    <a href="https://github.com/abeph00/pipex">![pipex](https://user-images.githubusercontent.com/114256637/238698628-04bbdbcd-b708-47ff-be11-78c0b0918db1.png) </a>
-
+</div>
+<br>
 <br>
 
+
+## 🧑‍💻 Current Technical Skills
+[![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,stackoverflow,html,css,github,git,visualstudio,c,unix)](https://skillicons.dev)
+<br>
+
+## 🌱 Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=python,r,javascript,cpp,mysql)](https://skillicons.dev)
+
+<br>
+  
 -----
 
 <div align="center">
